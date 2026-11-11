@@ -1,0 +1,5 @@
+PASS empty
+PASS boundary
+PASS bad_input
+PASS eof
+4/4 passed
